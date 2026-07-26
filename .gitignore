@@ -1,0 +1,13 @@
+node_modules/
+dist/
+outputs/
+.DS_Store
+Thumbs.db
+
+# 비밀·자격증명 안전망 (bb-ai와 동일 패턴)
+.env
+.env.*
+*.env
+*.env.*
+*.key
+*.pem
